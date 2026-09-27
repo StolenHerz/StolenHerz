@@ -1,8 +1,10 @@
-# Hello there
+# Hi, I'm Pavel
 
 ---
 
 ### About me
+
+18 y.o., cultivating mindfulness & productivity, 
 
 - 🎓 **Study:** UrFU, 1 course student. AI algorithms.
 - 💻 **Stack:** Python, JS, PostgreSQL, Docker, Git.
@@ -10,7 +12,7 @@
 
 ---
 
-### 🛠 Технологии и инструменты
+### 🛠 Techs and instruments
 
 **Languages & Backend:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -22,6 +24,8 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
+
+**Contacts:** [Telegram](https://t.me/StolenHerz)
 <!--
 **StolenHerz/StolenHerz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
