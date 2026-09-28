@@ -4,7 +4,7 @@
 
 ### About me
 
-18 y.o., cultivating mindfulness & productivity, 
+18 y.o., cultivating mindfulness & productivity
 
 - 🎓 **Study:** UrFU, 1 course student. AI algorithms.
 - 💻 **Stack:** Python, JS, PostgreSQL, Docker, Git.
@@ -17,18 +17,19 @@
 **Languages & Backend:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)
 
 **DevOps & Tools:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)
 
 ---
 
 **Contacts:** [Telegram](https://t.me/StolenHerz)
-<!--
-**StolenHerz/StolenHerz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
