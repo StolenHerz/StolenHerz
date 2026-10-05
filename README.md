@@ -2,7 +2,7 @@
 
 ---
 
-### About me
+## About me
 
 18 y.o., cultivating mindfulness & productivity
 
@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠 Techs and instruments
+## 🛠 Techs and instruments
 
 **Languages & Backend:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
